@@ -1,0 +1,10 @@
+name: pubmed_hotspot
+title:
+username: nkyqgong
+account: nkyqgong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12065625
+bundleId: 8658646
+url: https://nkyqgong.shinyapps.io/pubmed_hotspot/
+version: 1

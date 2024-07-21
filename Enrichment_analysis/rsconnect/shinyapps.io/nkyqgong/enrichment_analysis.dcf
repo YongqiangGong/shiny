@@ -1,0 +1,10 @@
+name: enrichment_analysis
+title:
+username: nkyqgong
+account: nkyqgong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12069168
+bundleId: 8659362
+url: https://nkyqgong.shinyapps.io/enrichment_analysis/
+version: 1
